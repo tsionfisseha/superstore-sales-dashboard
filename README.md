@@ -1,5 +1,7 @@
 # Retail Sales Analytics Dashboard
 
+![Retail Sales Dashboard](Images/dashboard.png)
+
 ## Project Overview
 
 This project analyzes retail sales data from the Superstore dataset to identify sales trends, profitability drivers, regional performance, and top-performing products.
@@ -105,12 +107,6 @@ The interactive dashboard provides an executive overview of retail performance.
 ### Product Analysis
 
 * Top 10 Products by Sales
-
----
-
-## Dashboard Preview
-
-![Retail Sales Dashboard](Images/dashboard.png)
 
 ---
 
